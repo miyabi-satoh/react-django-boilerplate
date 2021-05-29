@@ -1,4 +1,4 @@
-# DRF-React-SPA
+# react-django-boilerplate
 
 - バックエンド
   - Django REST framework : https://www.django-rest-framework.org/
