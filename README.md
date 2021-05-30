@@ -27,7 +27,8 @@ https://www.toptal.com/developers/gitignore/api/django,macos,react
 
 ### SECRET_KEY を git 管理外に
 
-https://qiita.com/haessal/items/abaef7ee4fdbd3b218f5
+https://qiita.com/haessal/items/abaef7ee4fdbd3b218f5<br>
+https://saasitive.com/tutorial/generate-django-secret-key/
 
 ## api アプリケーションを作成
 
